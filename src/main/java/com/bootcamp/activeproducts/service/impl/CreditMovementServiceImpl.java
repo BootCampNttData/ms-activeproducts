@@ -19,8 +19,6 @@ public class CreditMovementServiceImpl implements CreditMovementService {
         return repository.save(creditMovement);
     }
 
-
-
     @Override
     public Mono<CreditMovement> update(CreditMovement creditMovement) {
         return repository.save(creditMovement);
