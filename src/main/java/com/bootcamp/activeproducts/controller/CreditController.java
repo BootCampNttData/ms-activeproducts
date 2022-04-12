@@ -1,4 +1,4 @@
-package com.bootcamp.corporateclients.controller;
+package com.bootcamp.activeproducts.controller;
 
 import com.bootcamp.activeproducts.model.Credit;
 import com.bootcamp.activeproducts.service.CreditService;

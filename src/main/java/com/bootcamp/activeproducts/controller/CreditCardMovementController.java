@@ -1,4 +1,4 @@
-package com.bootcamp.corporateclients.controller;
+package com.bootcamp.activeproducts.controller;
 
 import com.bootcamp.activeproducts.model.CreditCardMovement;
 import com.bootcamp.activeproducts.service.CreditCardMovementService;
